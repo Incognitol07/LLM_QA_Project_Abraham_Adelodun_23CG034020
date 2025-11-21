@@ -1,4 +1,4 @@
 Name: Abraham Adelodun
 Matric number: 23CG034020
-Live URL of hosted application: [To be updated after deployment]
-GitHub repository link: [To be updated after upload]
+Live URL of hosted application: https://llm-qa-project-abraham-adelodun-23.vercel.app
+GitHub repository link: https://github.com/Incognitol07/LLM_QA_Project_Abraham_Adelodun_23CG034020
